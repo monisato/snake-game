@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    font-family: 'Courier New', Courier, monospace;
+    font: 20px;
+    color: lightgreen;
+}
+
